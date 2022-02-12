@@ -62,7 +62,7 @@ function add()
 
     // Exception Romaji
 
-    // 小さい文字
+    // 小さい文字    34
     const xa = 'ぁ';
     const xi = 'ぃ';
     const xu = 'ぅ';
