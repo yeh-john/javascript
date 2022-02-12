@@ -1,6 +1,6 @@
 function add()
 {
-    // Const Romaji
+    // Const Romaji     47
 
     // あ行
     const a = 'あ';
